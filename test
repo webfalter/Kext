@@ -1,0 +1,11 @@
+[
+  {
+  "name": "ATH9KFixup",
+  "kext": "ATH9KFixup.kext",
+  "description": "A Lilu plugin for patching AirPortAtheros40.kext hence enabling Atheros AR9K based cards in macOS.",
+  "homepage": "https://github.com/black-dragon74/ATH9KFixup"
+  },
+  {
+    "name": "john doe"
+  }
+]
