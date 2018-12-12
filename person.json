@@ -1,9 +1,14 @@
-[
-  {
-    "name": "ATH9KFixup",
-    "kext": "ATH9KFixupkext"
-  },
-  {
-    "name": "john doe"
-  }
-]
+{   
+    "code": "0", 
+    "message": "OK.",
+    "data": [
+        {
+            "timestamp": 1480885860,
+            "open": 10.99
+        },
+        {
+            "timestamp": 1480886040,
+            "open": 11
+        }
+    ]
+}
