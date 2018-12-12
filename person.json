@@ -1,13 +1,12 @@
 {   
-    
     "message": "OK.",
     "data": [
         {
-            "timestamp": 1480885860,
+            "timestamp": "test",
             "open": 10.99
         },
         {
-            "timestamp": 1480886040,
+            "timestamp": "neuer test",
             "open": 11
         }
     ]
